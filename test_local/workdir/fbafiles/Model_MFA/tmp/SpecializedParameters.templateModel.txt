@@ -1,0 +1,17 @@
+MFASolver|GLPK|Specialized parameters
+output folder|tmp/|Specialized parameters
+exchange species|cpd11416_c0[c]:-10000:0|Specialized parameters
+save phenotype fluxes|0|Specialized parameters
+database root output directory|/kb/module/work/fbafiles/Model_MFA//|Specialized parameters
+Reactions to knockout|none|Specialized parameters
+metabolites to optimize|REACTANTS;bio1|Specialized parameters
+os|linux|Specialized parameters
+database spec file|/kb/module/work/fbafiles/Model_MFA/tmp/StringDBFile.txt|Specialized parameters
+objective|MAX;FLUX;bio1;c;1|Specialized parameters
+create file on completion|FBAComplete.txt|Specialized parameters
+FBA experiment file|none|Specialized parameters
+perl directory|/usr/bin/perl|Specialized parameters
+user bounds filename|CDG.media|Specialized parameters
+scip executable|scip|Specialized parameters
+database root input directory|/kb/module/work/fbafiles/Model_MFA/tmp/|Specialized parameters
+Genes to knockout|none|Specialized parameters
